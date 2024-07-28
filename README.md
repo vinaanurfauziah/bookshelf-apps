@@ -4,6 +4,8 @@ Course: Belajar Membuat Front-End Web untuk Pemula
 --
 Dicoding Indonesia
 --
+Link Deploy: https://bookshelf-apps-fe.vercel.app/
+--
 *Checklist:*
 - Mampu Menambahkan Data Buku baru.
 - Memiliki minimal Dua Rak Buku. Yakni “Belum selesai dibaca” dan “Selesai dibaca”.
